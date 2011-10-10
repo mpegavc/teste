@@ -4,3 +4,5 @@ git
 lista ligada - HEAD
 
 commit do svn=push do git
+clone
+pull
